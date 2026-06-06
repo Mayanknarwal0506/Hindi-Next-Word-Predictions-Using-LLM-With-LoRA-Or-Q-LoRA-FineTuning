@@ -1,0 +1,16 @@
+torch
+transformers
+datasets
+accelerate
+peft
+bitsandbytes
+sentencepiece
+tokenizers
+numpy
+pandas
+scikit-learn
+matplotlib
+streamlit
+evaluate
+tqdm
+huggingface-hub
